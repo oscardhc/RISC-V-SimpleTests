@@ -1,0 +1,4 @@
+ORI x1, x0, 233
+ORI x2, x0, 16
+ORI x3, x2, 123
+ORI x4, x2, 111

@@ -1,0 +1,6 @@
+ORI x1, x0, 4
+ORI x2, x0, 6
+ORI x3, x0, 16
+LW x4, 4, x1
+LW x5, 6, x2
+ORI x2, x0, 233

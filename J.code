@@ -1,0 +1,6 @@
+JAL x1, 12
+ORI x4, x3, 128
+JALR x5, x1, 16
+ORI x2, x1, 64
+JAL x3, -12
+ORI x1, x4, 32
